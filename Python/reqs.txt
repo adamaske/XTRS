@@ -1,0 +1,47 @@
+# Networking
+#serial
+
+
+# Jupyterlab
+
+#jupyterlab
+#jupyter
+#jupyterlab-urdf
+
+# Numerics and Science
+numpy
+pandas
+scipy
+sympy
+clifford
+
+# Plotting
+matplotlib
+
+# Machine Learning
+#scikit-learn
+#tensorflow
+#keras-tuner
+
+# Paths and Files
+#pathlib
+
+#BCI
+##brainflow
+#pylsl
+
+#Python
+#pyserial
+#ipykernel
+#Robot
+#mdh
+#pybotics
+
+#osc4py3
+#python-osc
+
+#---- VIRTUAL ENV SETUP -----
+#python -m venv ./venv
+
+# --- INSTALL COMMAND ----
+#python -m pip install -r reqs.txt
